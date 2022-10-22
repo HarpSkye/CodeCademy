@@ -74,4 +74,4 @@ function idInvalidCardCompanies(id){
     }
 };
 
-//console.log(idInvalidCardCompanies([invalid1]));
+console.log(idInvalidCardCompanies([invalid1]));
